@@ -1,0 +1,15 @@
+body#layout ul, body#layout li {
+list-style-type: none;
+}
+body#layout .main {
+float: left;
+width: 60%;
+}
+body#layout .sidebar-right {
+float: right;
+width: 34%;
+}
+body#layout .footer {
+width: 27.8%;
+float: left;
+}
